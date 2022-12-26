@@ -1,0 +1,6 @@
+npm install 
+npm run start
+npm run build 
+
+npx sst deploy
+npx sst remove
